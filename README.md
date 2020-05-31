@@ -1,6 +1,6 @@
-# Portfolio (Python)
-This is a professional Portfolio of programs, wrote in Python language. Here you will find codes and applications in `.py` (Python) and `.ypnb` (Jupyter Notebook) to deal with
-environmental data for a variety of purposes:
+# Script Portfolio
+This is a professional Portfolio of data science scripts for engineering and remote sensing applications in order to deal with environmental data fora variety of purposes.
+Here one can find simple codes and complex applications write in **Python** (`.py`), **JavaScript** (`.js`), **Jupyter Notebook** (`.ypnb`), and other languages.
 
 * Data pre processing;
 	* Data Frame composing and arranjement;
@@ -11,6 +11,12 @@ environmental data for a variety of purposes:
 * Remote sensing data/images applications;
 * Others.
 
-The featured applications of this **Python Portfolio** are:
+The featured `Python` applications are:
 
-1) [Ramses Trios sensors calibration](./01_trios_calibration "trios_calibration application"), a application that calibrates radiometric raw data measurements;
+1) [Ramses Trios sensors calibration](./trios-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
+
+
+
+The featured `JavaScript` wrote for *Google Earth Engine* applications are:
+
+1) 
