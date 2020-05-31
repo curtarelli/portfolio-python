@@ -1,0 +1,7 @@
+gdal
+matplotlib
+numpy
+osgeo
+pandas
+scipy
+sklearn
