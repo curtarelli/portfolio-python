@@ -15,7 +15,7 @@ The featured `Python` applications are:
 
 1) [Ramses Trios sensors calibration](./trios-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
 
-## 1) Installation - Requirements
+## Installation - Requirements
 
 To copy all scripts of this **Portfolio** open a python prompt (e.g. Anaconda or Miniconda prompt). To do that, inside the prompt, go inside the
 folder in which you want to download this repository and run the following comands:
