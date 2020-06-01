@@ -24,7 +24,7 @@ folder in which you want to download this repository and run the following coman
 
 ```
 $	git clone https://github.com/curtarelli/portfolio
-$	cd portfolio
+$	cd portfolio-python
 $	conda env create --name "your-env-name"
 $	conda activate "your-env-name"
 $	pip install -r requirements.txt
