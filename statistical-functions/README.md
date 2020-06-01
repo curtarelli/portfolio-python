@@ -16,11 +16,11 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 * Bias Error (bias);
 
-
+	<img src="https://render.githubusercontent.com/render/math?math=Bias = {\sum ({y_{pred_i} - y_{ref_i}})} \over {n}">
 
 * Root-Mean Square Error (RMSE);
 
-
+	<img src="https://render.githubusercontent.com/render/math?math=R^2 = r^2 = ({{{n({\sum y_{ref_i} {.} y_{pred_i}})} - ({{\sum y_{ref_i}}}) {.} ({{\sum y_{pred_i}}})} \over \sqrt{[n {\sum {y_{ref_i}}^2} - ({\sum y_{ref_i}})^2] {.} [n {\sum {y_{pred_i}}^2} - ({\sum y_{pred_i}})^2]}})^2">
 
 ## Use of the script
 
