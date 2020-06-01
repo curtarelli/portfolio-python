@@ -1,5 +1,6 @@
 gdal==3.1.0
 IPython==7.15.1
+jupyter notebook
 matplotlib==3.2.1
 numpy==1.18
 pandas==1.0.4
