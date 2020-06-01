@@ -4,7 +4,7 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 * Mean Absolute Percentage Error (MAPE);
 
-<img src="https://render.githubusercontent.com/render/math?math=MAPE = {1 \over n} \sum_{\substack{i=1}} {\Bigl\lvert {{y_{ref_i} - y_{pred_i}} \over {y_{ref_i}}} \Bigr\rvert}">
+		<img src="https://render.githubusercontent.com/render/math?math=MAPE = {1 \over n} \sum_{\substack{i=1}} {\Bigl\lvert {{y_{ref_i} - y_{pred_i}} \over {y_{ref_i}}} \Bigr\rvert}">
 
 * Correlation Coefficient (r);
 
