@@ -13,7 +13,7 @@ Here one can find simple codes and complex applications write in **Python** (`.p
 
 The featured `Python` applications are:
 
-1) [Ramses Trios sensors calibration](./trios-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
+1) [TriOS-RAMSES sensors calibration](./trios-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
 
 ## Installation - Requirements
 
