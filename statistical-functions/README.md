@@ -24,4 +24,4 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 ## Use of the script
 
-The user can copy the `statistical-function.py` script to your capplication `util` directory and import it into your code.
+The user can copy the `statistical-function.py` script to your application `util` directory and import it into your code.
