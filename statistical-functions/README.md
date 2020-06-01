@@ -12,7 +12,7 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 * Determination Coefficient (R²);
 
-	<img src="https://render.githubusercontent.com/render/math?math=R² = ({{{n({\sum y_{ref_i} {.} y_{pred_i}})} - ({{\sum y_{ref_i}}}) {.} ({{\sum y_{pred_i}}})} \over \sqrt{[n {\sum {y_{ref_i}}^2} - ({\sum y_{ref_i}})^2] {.} [n {\sum {y_{pred_i}}^2} - ({\sum y_{pred_i}})^2]}})^2">
+	<img src="https://render.githubusercontent.com/render/math?math=R^2 = r^2 = ({{{n({\sum y_{ref_i} {.} y_{pred_i}})} - ({{\sum y_{ref_i}}}) {.} ({{\sum y_{pred_i}}})} \over \sqrt{[n {\sum {y_{ref_i}}^2} - ({\sum y_{ref_i}})^2] {.} [n {\sum {y_{pred_i}}^2} - ({\sum y_{pred_i}})^2]}})^2">
 
 * Bias Error (bias);
 
