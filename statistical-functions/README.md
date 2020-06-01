@@ -8,7 +8,7 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 * Correlation Coefficient (r);
 
-	<img src="https://render.githubusercontent.com/render/math?math=r = {{n({\sum_{\substack{i=1}} y_{ref_i} y_{pred_i}})} - ({{\sum_{\substack{i=1}} y_{ref_i}}})({{\sum_{\substack{i=1}} y_{pred_i}}})} \over \sqrt{[n {\sum_{\substack{i=1}} y_{ref_i}^2}]  }}">
+	<img src="https://render.githubusercontent.com/render/math?math=r = {{n({\sum_{\substack{i=1}} y_{ref_i} y_{pred_i}})} - ({{\sum_{\substack{i=1}} y_{ref_i}}})({{\sum_{\substack{i=1}} y_{pred_i}}}) \over \sqrt{[n {\sum_{\substack{i=1}} y_{ref_i}^2}]  }}">
 
 * Determination Coefficient (R²);
 
