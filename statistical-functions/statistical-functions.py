@@ -44,7 +44,7 @@ def mape(y_true, y_pred):
     return np.mean(np.abs((y_true - y_pred) / y_true)) * 100
 
 ###############################################################################
-def correlation_coef(y_true, y_pred):
+def correlation_coeff(y_true, y_pred):
     '''
 	Function to calculate the Correlation Coefficient (r) using a reference
 	and a predict data series.
@@ -72,7 +72,7 @@ def correlation_coef(y_true, y_pred):
     return (df_temp.corr().iloc[1].iloc[0])
 
 ###############################################################################
-def determination_coef(y_true, y_pred):
+def determination_coeff(y_true, y_pred):
     '''
 	Function to calculate the Determination Coefficient (R²) using a reference
 	and a predict data series.
