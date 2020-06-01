@@ -4,11 +4,11 @@ This is a script with functions to apply statistcal methods to compare a predict
 
 * Mean Absolute Percentage Error (MAPE);
 
-	<img src="https://render.githubusercontent.com/render/math?math=MAPE = {1 \over n} \sum_{\substack{i=1}} {\Bigl\lvert {{y_{ref_i} - y_{pred_i}} \over {y_{ref_i}}} \Bigr\rvert}">
+	<img src="https://render.githubusercontent.com/render/math?math=MAPE = {1 \over n} \sum {\Bigl\lvert {{y_{ref_i} - y_{pred_i}} \over {y_{ref_i}}} \Bigr\rvert}">
 
 * Correlation Coefficient (r);
 
-	<img src="https://render.githubusercontent.com/render/math?math=r = {{n({\sum_{\substack{i=1}} y_{ref_i} {.} y_{pred_i}})} - ({{\sum_{\substack{i=1}} y_{ref_i}}}) {.} ({{\sum_{\substack{i=1}} y_{pred_i}}})} \over \sqrt{[n {\sum_{\substack{i=1}} y_{ref_i}^2} - ({\sum_{\substack{i=1}} y_{ref_i}})^2]}">
+	<img src="https://render.githubusercontent.com/render/math?math=r = {{n({\sum y_{ref_i} {.} y_{pred_i}})} - ({{\sum y_{ref_i}}}) {.} ({{\sum y_{pred_i}}})} \over \sqrt{[n {\sum y_{ref_i}^2} - ({\sum y_{ref_i}})^2]}">
 
 * Determination Coefficient (R²);
 
