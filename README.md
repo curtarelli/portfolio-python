@@ -15,7 +15,7 @@ The featured `Python` applications are:
 
 1) [TriOS-RAMSES sensors calibration](./trios-ramses-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
 
-2) [Statistical Funcitons](./statistical-functions "statistical-functions application"), a application with some statistical parameters functions;
+2) [Statistical Functions](./statistical-functions "statistical-functions application"), a application with some statistical parameters functions;
 
 ## Installation - Requirements
 
