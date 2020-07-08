@@ -18,17 +18,15 @@ def palindrome(x):
         print('The word ' + y + ' is not a palindrome')
 
 # Exameple:
-aa = 'Asa'
-print('Example for: ' + aa)
-palindrome(aa)
+a = 'Asa'
+print('Example for: ' + a)
+palindrome(a)
 
-a = str(input('\n''Insira uma palavra iniciando com letra maiúscula e sem acentuação: '))   # Pergunta ao usuário uma palavra;
-palindromo(a)                                                         # Aplica a função palindromo na palavra escolhida;
-
-def frase_palindromo(x):        # Função que testa se frase é palindromo;
+# Function to test if a phrase is a palindrome:
+def palindrome_phrase(x):
     cr = (" ", ",", ".", "!", "-")
 
-    y = x                       # Cópia da frase original;
+    y = x
 
     x = x.lower()
 
@@ -36,13 +34,11 @@ def frase_palindromo(x):        # Função que testa se frase é palindromo;
         x = x.replace(c, "")
 
     if x == x[::-1]:
-        print('Frase: ' + y + ', é palindromo')
+        print('Phrase: ' + y + ', is a palindrome')
     else:
-        print('Frase: ' + y + ', não é palindromo')
+        print('Phrase: ' + y + ', is not a palindrome')
 
-aa = 'Never odd or even'                            # Frase exemplo;
-print('Exemplo para a frase: Never odd or even')
-frase_palindromo(aa)                                # Aplica função palindromo sobre a frase;
-
-a = str(input('\n''Insira uma frase sem acentos: '))    # Pergunta uma frase ao ususário;
-frase_palindromo(a)                                     # Aplica função palindromo sobre a frase escolhida;
+# Example:
+a = 'Never odd or even'
+print('Example phrase: ' + a)
+palindrome_phrase(a)
