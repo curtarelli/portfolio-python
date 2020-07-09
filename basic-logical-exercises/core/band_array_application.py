@@ -38,5 +38,4 @@ def random_matrix_sum(bits, lines, columns):
     # Ploting the result:
     plt.show()
 
-# Apliyng the function:
-random_matrix_sum(8, 50, 50)
+

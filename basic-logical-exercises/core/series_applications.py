@@ -20,13 +20,6 @@ def lucas(x):
         i = i + 1
         print(v)
 
-# Example of Lucas sequence use:
-nn = 8
-print('Lucas sequence example for the term number: ', nn)
-print(lucas(nn))
-n = int(input('\n''Input the Lucas sequence term you want: '))
-print(lucas(n))
-
 # Pell series function based on chosen term [initial = 0]:
 def pell(x):
     a = 0
@@ -42,13 +35,6 @@ def pell(x):
         i = i + 1
         print(v)
 
-# Example of Pell sequence use:
-nn = 8
-print('Pell sequence example for the term number: ', nn)
-print(pell(nn))
-n = int(input('\n''Input the Pell sequence term you want: '))
-print(pell(n))
-
 # Triangular series function based on chosen term [initial = 0]:
 def triangular(x):
     i = 1
@@ -59,13 +45,6 @@ def triangular(x):
         i = i + 1
         print(a)
 
-# Example of Triangular sequence use:
-nn = 8
-print('Triangular sequence example for the term number: ', nn)
-print(triangular(nn))
-n = int(input('\n''Input the Triangular sequence term you want: '))
-print(triangular(n))
-
 # Square series function based on chosen term [initial = 1]:
 def square(x):
     i = 1
@@ -74,13 +53,6 @@ def square(x):
         a = i ** 2
         i = i + 1
         print(a)
-
-# Example of Square sequence use:
-nn = 8
-print('Square sequence example for the term number: ', nn)
-print(square(nn))
-n = int(input('\n''Input the Square sequence term you want: '))
-print(square(n))
 
 # Pentagonal series function based on chosen term [initial = 1]:
 def pentagonal(x):
@@ -91,9 +63,3 @@ def pentagonal(x):
         i = i + 1
         print(a)
 
-# Example of Pentagonal sequence use:
-nn = 8
-print('Pentagonal sequence example for the term number: ', nn)
-print(pentagonal(nn))
-n = int(input('\n''Input the Pentagonal sequence term you want: '))
-print(pentagonal(n))

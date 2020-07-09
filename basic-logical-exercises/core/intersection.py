@@ -29,23 +29,3 @@ def intersection(x1, y1, x2, y2, x3, y3, x4, y4):
     else:
         print('The segments L1 and L2 does not intercept each other!''\n');
 
-# Example coordinates:
-x1 = 0
-y1 = 0
-
-x2 = 10
-y2 = 10
-
-x3 = 10
-y3 = 0
-
-x4 = 0
-y4 = 10
-
-# Returning the lines for this example:
-print('Exampl lines:')
-print('L1: [(', x1, ';', y1, ') , (', x2, ';', y2,')]')
-print('L2: [(', x3, ';', y3, ') , (', x4, ';', y4,')]')
-
-# Aplica a função para as retas deexemplo;
-print(intersection(x1, y1, x2, y2, x3, y3, x4, y4))

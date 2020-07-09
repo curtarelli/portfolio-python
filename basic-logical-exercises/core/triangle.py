@@ -37,6 +37,3 @@ def triangle():
     else:                                                       
         print('\n''These measures does not match a triangle form')           	# Returns the error message;
         triangle()
-      
-#   Using the equation created:
-triangle()

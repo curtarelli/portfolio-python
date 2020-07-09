@@ -29,19 +29,3 @@ def n_value(list_i, position):
     print('N-st value: ', list_i[position])
     return list_i[position]
 
-# Tree values for test;
-a = 1.0
-b = 15.0
-c = 15.0
-
-# List creation;
-list_i = [a, b, c]
-
-# Max and Min values application;
-max_value, min_value = max_min(list_i)
-
-# Highest value;
-value_1 = n_value(list_i, 1)
-
-# Lowest value;
-value_last = n_value(list_i, -1)

@@ -17,11 +17,6 @@ def palindrome(x):
     else:
         print('The word ' + y + ' is not a palindrome')
 
-# Exameple:
-a = 'Asa'
-print('Example for: ' + a)
-palindrome(a)
-
 # Function to test if a phrase is a palindrome:
 def palindrome_phrase(x):
     cr = (" ", ",", ".", "!", "-")
@@ -38,7 +33,3 @@ def palindrome_phrase(x):
     else:
         print('Phrase: ' + y + ', is not a palindrome')
 
-# Example:
-a = 'Never odd or even'
-print('Example phrase: ' + a)
-palindrome_phrase(a)
