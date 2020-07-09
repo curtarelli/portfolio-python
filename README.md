@@ -17,6 +17,8 @@ The featured `Python` applications are:
 
 2) [Statistical Functions](./statistical-functions "statistical-functions application"), a application with some statistical parameters functions;
 
+3) [Basic Logical Exercises](./basic-logical-exercises "basic-logical-exercises application"), simple logical problems solution using python language;
+
 ## Installation - Requirements
 
 To copy all scripts of this **Portfolio** open a python prompt (e.g. Anaconda or Miniconda prompt). To do that, inside the prompt, go inside the
