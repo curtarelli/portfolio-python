@@ -17,7 +17,7 @@ quantization), sums it, correct it and plot it;
 
 5) [Palindrome Application](./05-palindrome.py "05-palindrome.py script"). A function package to test if a word or a phrase is a palindrome;
 
-6) [Lines Intersection Application] (./06-intersection.py "06-intersection.py script"). A function to assess if two lines intersects each other, using the coordinates
+6) [Lines Intersection Application](./06-intersection.py "06-intersection.py script"). A function to assess if two lines intersects each other, using the coordinates
 given by the user;
 
 7) . 
