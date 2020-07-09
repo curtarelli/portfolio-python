@@ -20,4 +20,4 @@ quantization), sums it, correct it and plot it;
 6) [Lines Intersection Application] (./06-intersection.py "06-intersection.py script"). A function to assess if two lines intersects each other, using the coordinates
 given by the user;
 
-7) [](./ " script"). 
+7) . 
