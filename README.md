@@ -19,6 +19,8 @@ The featured `Python` applications are:
 
 3) [Basic Logical Exercises](./basic-logical-exercises "basic-logical-exercises application"), simple logical problems solution using python language;
 
+4) [Advanced Exercises](./advanced-exercises "advanced-exercises jupyter notebooks"), advanced problems using image manipulation, graphical ploting and others;
+
 ## Installation - Requirements
 
 To copy all scripts of this **Portfolio** open a python prompt (e.g. Anaconda or Miniconda prompt). To do that, inside the prompt, go inside the
