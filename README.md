@@ -21,6 +21,8 @@ The featured `Python` applications are:
 
 4) [Advanced Exercises](./advanced-exercises "advanced-exercises jupyter notebooks"), advanced problems using image manipulation, graphical ploting and others;
 
+5) [Util Scripts](./util "Util Scripts"), general pre processing, plot and other scripts;
+
 ## Installation - Requirements
 
 To copy all scripts of this **Portfolio** open a python prompt (e.g. Anaconda or Miniconda prompt). To do that, inside the prompt, go inside the
