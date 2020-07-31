@@ -13,13 +13,13 @@ Here one can find simple codes and complex applications write in **Python** (`.p
 
 The featured `Python` applications are:
 
-1) [TriOS-RAMSES sensors calibration](./trios-ramses-calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
+1) [TriOS-RAMSES sensors calibration](./trios_ramses_calibration "trios-calibration application"), a application that calibrates radiometric raw data measurements;
 
-2) [Statistical Functions](./statistical-functions "statistical-functions application"), a application with some statistical parameters functions;
+2) [Statistical Functions](./statistical_functions "statistical-functions application"), a application with some statistical parameters functions;
 
-3) [Basic Logical Exercises](./basic-logical-exercises "basic-logical-exercises application"), simple logical problems solution using python language;
+3) [Basic Logical Exercises](./basic_logical_exercises "basic-logical-exercises application"), simple logical problems solution using python language;
 
-4) [Advanced Exercises](./advanced-exercises "advanced-exercises jupyter notebooks"), advanced problems using image manipulation, graphical ploting and others;
+4) [Advanced Exercises](./advanced_exercises "advanced-exercises jupyter notebooks"), advanced problems using image manipulation, graphical ploting and others;
 
 5) [Util Scripts](./util "Util Scripts"), general pre processing, plot and other scripts;
 
