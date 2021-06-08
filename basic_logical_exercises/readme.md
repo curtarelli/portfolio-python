@@ -20,4 +20,3 @@ quantization), sums it, correct it and plot it;
 6) [Lines Intersection Application](./06-intersection.ipynb "06-intersection.ipynb script"). A function to assess if two lines intersects each other, using the coordinates
 given by the user;
 
-7) . 
